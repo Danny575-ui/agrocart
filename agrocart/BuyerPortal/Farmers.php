@@ -898,7 +898,7 @@
             <div class="item1">
                 <ul class="firstbox">
                     <li class="content0 content_0"><i class="fas fa-user"></i></li>
-                    <li class="content1">Gladina</li>
+                    <li class="content1">hl</li>
 
                     <li class="content2">9819104641</li>
 
@@ -912,7 +912,7 @@
                 <ul class="firstbox">
                     <li class="content0 content_1"><i class="fas fa-user"></i></li>
 
-                    <li class="content1">Calista</li>
+                    <li class="content1">Danush</li>
 
                     <li class="content2">9819104641</li>
 
@@ -927,7 +927,7 @@
                 <ul class="firstbox">
                     <li class="content0 content_2"><i class="fas fa-user"></i></li>
 
-                    <li class="content1">Arpit</li>
+                    <li class="content1">Shashank</li>
 
                     <li class="content2">9819104641</li>
 
@@ -942,7 +942,7 @@
                 <ul class="firstbox">
                     <li class="content0 content_3"><i class="fas fa-user"></i></li>
 
-                    <li class="content1">Omkar</li>
+                    <li class="content1">Darshan</li>
 
                     <li class="content2">9819104641</li>
 
@@ -957,7 +957,7 @@
             <div class="item1">
                 <ul class="firstbox">
                     <li class="content0 content_0"><i class="fas fa-user"></i></li>
-                    <li class="content1">Abhishek</li>
+                    <li class="content1">Chiraag</li>
 
                     <li class="content2">9819104641</li>
 

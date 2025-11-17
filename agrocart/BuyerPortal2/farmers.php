@@ -309,7 +309,7 @@ include("../Functions/functions.php");
                 <div class="card border-dark border" >
                     <div class="card-body ">
                         <h5 class="card-title text-center"><img src="iconbig3.png" style=" margin-bottom:  10px;"></h5>
-                        <h4 class="card-subtitle mb-2  text-center">Abhishek</h4>
+                        <h4 class="card-subtitle mb-2  text-center">Chiraag</h4>
                         <p class="card-text text-center">Vashi, Maharashtra<br><br>
                             <button type="button" class="btn  border-dark border" style="background-color:#FFD700;color:black">View Profile </button>
                         </p>
@@ -322,7 +322,7 @@ include("../Functions/functions.php");
                 <div class="card border-dark border" >
                     <div class="card-body ">
                         <h5 class="card-title text-center"><img src="iconbig.png" style=" margin-bottom:  10px;"></h5>
-                        <h4 class="card-subtitle mb-2  text-center">Ansh</h4>
+                        <h4 class="card-subtitle mb-2  text-center">Shashank</h4>
                         <p class="card-text text-center">Kopar, Maharashtra<br><br>
                             <button type="button" class="btn  border-dark border" style="background-color:#FFD700;color:black">View Profile </button>
                         </p>
@@ -335,7 +335,7 @@ include("../Functions/functions.php");
                 <div class="card border-dark border" >
                     <div class="card-body ">
                         <h5 class="card-title text-center"><img src="iconbig2.png" style=" margin-bottom:  10px;"></h5>
-                        <h4 class="card-subtitle mb-2  text-center">Gladina</h4>
+                        <h4 class="card-subtitle mb-2  text-center">Darshan</h4>
                         <p class="card-text text-center">Thane, Maharashtra<br><br>
                             <button type="button" class="btn  border-dark border" style="background-color:#FFD700;color:black">View Profile </button>
                         </p>
@@ -348,7 +348,7 @@ include("../Functions/functions.php");
                 <div class="card border-dark border" >
                     <div class="card-body ">
                         <h5 class="card-title text-center"><img src="iconbig4.png" style=" margin-bottom:  10px;"></h5>
-                        <h4 class="card-subtitle mb-2  text-center">Calista</h4>
+                        <h4 class="card-subtitle mb-2  text-center">hl</h4>
                         <p class="card-text text-center">Wadala, Maharashtra<br><br>
                             <button type="button" class="btn  border-dark border" style="background-color:#FFD700;color:black">View Profile </button>
                         </p>

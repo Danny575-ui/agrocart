@@ -327,7 +327,7 @@ include("../Functions/functions.php");
                 <div class="card  pl-3 pr-3 pb-0 pt-2 mt-2 ">
                     <br>
                     <div><b>
-                            <h3><img src="iconsmall.png"> ABHISHEK
+                            <h3><img src="iconsmall.png"> Chiraag
                         </b></h3>
                     </div>
                     <img class="card-img-top pic" src="myfruit1.jfif" alt="Card image cap">
